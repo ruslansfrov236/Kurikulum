@@ -9,6 +9,9 @@ namespace kurikulum.Models.Entity
 		public Category Category { get; set; }
 		public Guid SubCategoryId { get; set; }
 
+
+	
+
 		public ICollection<SubCategory>? SubCategories { get; set; }
 	}
 }

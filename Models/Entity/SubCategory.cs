@@ -7,5 +7,8 @@ namespace kurikulum.Models.Entity
         public string Name { get; set; }    
 
         public Category Category { get; set; }  
+
+        public Lesson Lesson { get; set; }  
+
     }
 }

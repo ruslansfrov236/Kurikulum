@@ -18,6 +18,14 @@ namespace kurikulum.Models.Context
         public DbSet<HeaderContent> HeaderContents { get; set; }
 
         public DbSet<SubQrupCategory> SubQrupCategories { get; set; }
+
+		public DbSet<Lesson> Lessons { get; set; }	
+
+		public DbSet<HeaderDetails> HeaderDetails { get; set; }	
+
+		public DbSet<Collaboration> Collaborations { get; set; }	
+
+		public DbSet<Details> Details { get; set; }	
 		public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
 		{
 			

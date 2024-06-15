@@ -1,5 +1,5 @@
 ﻿using kurikulum.Areas.Admin.ViewModels.Header;
-using kurikulum.Areas.Data.Helper;
+using kurikulum.Helper;
 using kurikulum.Models.Context;
 using kurikulum.Models.Entity;
 using Microsoft.AspNetCore.Mvc;
@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace kurikulum.Areas.Admin.Controllers
 {
-	public class HeaderController : Controller
+    public class HeaderController : Controller
 	{
 		readonly private IFormFileService _formFileService;
 		readonly private AppDbContext _context;
@@ -117,15 +117,26 @@ namespace kurikulum.Areas.Admin.Controllers
 
 					};
 				}
+				
+            }
+            else
+            {
+                Header header = new Header()
+                {
+                    Photo = model.Photo,
 
-			}
+                };
+            }
+
+            await _context.SaveChangesAsync();
 
 
 
 
 
 
-			return RedirectToAction(nameof(Index));
+
+            return RedirectToAction(nameof(Index));
 		}
 
 

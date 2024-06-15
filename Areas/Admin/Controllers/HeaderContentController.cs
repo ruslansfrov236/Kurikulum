@@ -1,5 +1,5 @@
 ﻿using kurikulum.Areas.Admin.ViewModels.HeaderContent;
-using kurikulum.Areas.Data.Helper;
+using kurikulum.Helper;
 using kurikulum.Models.Context;
 using kurikulum.Models.Entity;
 using Microsoft.AspNetCore.Mvc;
@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace kurikulum.Areas.Admin.Controllers
 {
-	public class HeaderContentController : Controller
+    public class HeaderContentController : Controller
 	{
 		readonly private AppDbContext _context;
 		readonly private IFormFileService _formFileService;
