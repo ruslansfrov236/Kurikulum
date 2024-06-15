@@ -1,12 +1,245 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\documents\\kurikulum\\kurikulum\\kurikulum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\documents\\kurikulum\\kurikulum\\kurikulum\\models\\entity\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\documents\\kurikulum\\kurikulum\\kurikulum\\models\\entity\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\documents\\kurikulum\\kurikulum\\kurikulum\\models\\entity\\enum\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\enum\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\documents\\kurikulum\\kurikulum\\kurikulum\\models\\entity\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\documents\\kurikulum\\kurikulum\\kurikulum\\models\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\documents\\kurikulum\\kurikulum\\kurikulum\\kurikulum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\kurikulum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\documents\\kurikulum\\kurikulum\\kurikulum\\helper\\videofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\helper\\videofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\documents\\kurikulum\\kurikulum\\kurikulum\\helper\\ivideofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\helper\\ivideofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\documents\\kurikulum\\kurikulum\\kurikulum\\areas\\admin\\viewmodels\\headerdetails\\createheaderdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\viewmodels\\headerdetails\\createheaderdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\documents\\kurikulum\\kurikulum\\kurikulum\\migrations\\20240615135415_mg_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\migrations\\20240615135415_mg_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\documents\\kurikulum\\kurikulum\\kurikulum\\models\\entity\\headerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\headerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\documents\\kurikulum\\kurikulum\\kurikulum\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Models\\Entity\\Lesson.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\Lesson.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Models\\Entity\\Lesson.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\Lesson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:25:14.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleModel.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Models\\Entity\\Enum\\RoleModel.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\Enum\\RoleModel.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Models\\Entity\\Enum\\RoleModel.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\Enum\\RoleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:21:22.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Models\\Entity\\Identity\\AppRole.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\Identity\\AppRole.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Models\\Entity\\Identity\\AppRole.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\Identity\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:20:21.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Models\\Entity\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Models\\Entity\\Identity\\AppUser.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\Identity\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:13:32.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Program.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Program.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Program.cs",
+              "RelativeToolTip": "kurikulum\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:06:51.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VideoFileService.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Helper\\VideoFileService.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Helper\\VideoFileService.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Helper\\VideoFileService.cs",
+              "RelativeToolTip": "kurikulum\\Helper\\VideoFileService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:06:47.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IVideoFileService.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Helper\\IVideoFileService.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Helper\\IVideoFileService.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Helper\\IVideoFileService.cs",
+              "RelativeToolTip": "kurikulum\\Helper\\IVideoFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:06:26.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "kurikulum",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\kurikulum.csproj",
+              "RelativeDocumentMoniker": "kurikulum\\kurikulum.csproj",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\kurikulum.csproj",
+              "RelativeToolTip": "kurikulum\\kurikulum.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-15T15:05:36.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateHeaderDetailsVM.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Areas\\Admin\\ViewModels\\HeaderDetails\\CreateHeaderDetailsVM.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\ViewModels\\HeaderDetails\\CreateHeaderDetailsVM.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Areas\\Admin\\ViewModels\\HeaderDetails\\CreateHeaderDetailsVM.cs",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\ViewModels\\HeaderDetails\\CreateHeaderDetailsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:05:31.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240615135415_mg_1.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Migrations\\20240615135415_mg_1.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Migrations\\20240615135415_mg_1.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Migrations\\20240615135415_mg_1.cs",
+              "RelativeToolTip": "kurikulum\\Migrations\\20240615135415_mg_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:54:16.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Models\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Models\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:52:25.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HeaderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Models\\Entity\\HeaderDetails.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\HeaderDetails.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\Models\\Entity\\HeaderDetails.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\HeaderDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:52:08.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\appsettings.json",
+              "RelativeDocumentMoniker": "kurikulum\\appsettings.json",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Documents\\kurikulum\\kurikulum\\kurikulum\\appsettings.json",
+              "RelativeToolTip": "kurikulum\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-15T13:50:58.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
