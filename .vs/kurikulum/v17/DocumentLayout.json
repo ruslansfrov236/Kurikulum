@@ -1,0 +1,1029 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\controllers\\headercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\controllers\\headercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\controllers\\headercontentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\controllers\\headercontentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\kurikulum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\kurikulum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\views\\header\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\views\\header\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\views\\header\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\views\\header\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\models\\entity\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\views\\cooperation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\views\\cooperation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\wwwroot\\assets\\ui\\js\\sweetalert2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\wwwroot\\assets\\ui\\js\\sweetalert2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\wwwroot\\assets\\ui\\style\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\wwwroot\\assets\\ui\\style\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\viewmodels\\account\\registrationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\viewmodels\\account\\registrationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\models\\entity\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\viewmodels\\account\\updatepasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\viewmodels\\account\\updatepasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\models\\entity\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\controllers\\cooperationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\controllers\\cooperationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\viewmodels\\collaboration\\createcollaborationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\viewmodels\\collaboration\\createcollaborationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\models\\entity\\collaboration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\collaboration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\views\\shared\\_headercontentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\views\\shared\\_headercontentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\models\\entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\models\\entity\\audiolesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\audiolesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\models\\entity\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\models\\entity\\headercontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\headercontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\models\\entity\\subqrupcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\subqrupcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\models\\entity\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\models\\entity\\headerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\headerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\models\\entity\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\models\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\models\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\views\\headercontent\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\views\\headercontent\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\views\\headercontent\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\views\\headercontent\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\views\\headercontent\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\views\\headercontent\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\views\\headercontent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\views\\headercontent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\views\\details\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\views\\details\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\controllers\\detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\controllers\\detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\views\\details\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\views\\details\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\views\\details\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\views\\details\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\views\\header\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\views\\header\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\views\\header\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\views\\header\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\models\\entity\\customers\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\models\\entity\\customers\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\viewmodels\\details\\createdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\viewmodels\\details\\createdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\controllers\\headerdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\controllers\\headerdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\viewmodels\\headercontent\\updateheadercontentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\viewmodels\\headercontent\\updateheadercontentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\viewmodels\\headercontent\\createheadercontentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\viewmodels\\headercontent\\createheadercontentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\viewmodels\\header\\updateheadervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\viewmodels\\header\\updateheadervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\viewmodels\\header\\createheadervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\viewmodels\\header\\createheadervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\source\\repos\\kurikulum\\kurikulum\\Areas\\Data\\Helper\\IFormFileService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\source\\repos\\kurikulum\\kurikulum\\Areas\\Data\\Helper\\FormFileService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\migrations\\20240617163018_mg_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\migrations\\20240617163018_mg_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|c:\\users\\silent telecomp\\downloads\\kurikulum\\kurikulum\\migrations\\20240617161933_mg_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C64C-D971-4283-9D7E-8ACC3641F352}|kurikulum\\kurikulum.csproj|solutionrelative:kurikulum\\migrations\\20240617161933_mg_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Header.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\Header.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\Header.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\Header.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\Header.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:52:50.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T17:01:11.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "kurikulum\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T17:03:08.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\Header\\Create.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Views\\Header\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\Header\\Create.cshtml",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Views\\Header\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T16:42:26.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kurikulum.csproj",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\kurikulum.csproj",
+              "RelativeDocumentMoniker": "kurikulum\\kurikulum.csproj",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\kurikulum.csproj",
+              "RelativeToolTip": "kurikulum\\kurikulum.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T15:46:55.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HeaderContentController.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Controllers\\HeaderContentController.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Controllers\\HeaderContentController.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Controllers\\HeaderContentController.cs",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Controllers\\HeaderContentController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwEEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:43:25.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeaderController.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Controllers\\HeaderController.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Controllers\\HeaderController.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Controllers\\HeaderController.cs",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Controllers\\HeaderController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:49:05.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Program.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Program.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Program.cs",
+              "RelativeToolTip": "kurikulum\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAmwDoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:47:35.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\Header\\Index.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Views\\Header\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\Header\\Index.cshtml",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Views\\Header\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T16:41:51.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Views\\Cooperation\\Index.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Views\\Cooperation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Views\\Cooperation\\Index.cshtml",
+              "RelativeToolTip": "kurikulum\\Views\\Cooperation\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T17:01:04.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "kurikulum\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwCYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T17:02:44.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sweetalert2.js",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\wwwroot\\assets\\ui\\js\\sweetalert2.js",
+              "RelativeDocumentMoniker": "kurikulum\\wwwroot\\assets\\ui\\js\\sweetalert2.js",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\wwwroot\\assets\\ui\\js\\sweetalert2.js",
+              "RelativeToolTip": "kurikulum\\wwwroot\\assets\\ui\\js\\sweetalert2.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-17T18:38:24.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\wwwroot\\assets\\ui\\style\\style.css",
+              "RelativeDocumentMoniker": "kurikulum\\wwwroot\\assets\\ui\\style\\style.css",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\wwwroot\\assets\\ui\\style\\style.css",
+              "RelativeToolTip": "kurikulum\\wwwroot\\assets\\ui\\style\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-17T18:23:37.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "kurikulum\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGUBAAAAAAAAAAAmwIIBAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T17:02:29.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistrationVM.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\ViewModels\\Account\\RegistrationVM.cs",
+              "RelativeDocumentMoniker": "kurikulum\\ViewModels\\Account\\RegistrationVM.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\ViewModels\\Account\\RegistrationVM.cs",
+              "RelativeToolTip": "kurikulum\\ViewModels\\Account\\RegistrationVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:09:30.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "kurikulum\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "kurikulum\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:16:08.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "kurikulum\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:13:35.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdatePasswordVM.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\ViewModels\\Account\\UpdatePasswordVM.cs",
+              "RelativeDocumentMoniker": "kurikulum\\ViewModels\\Account\\UpdatePasswordVM.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\ViewModels\\Account\\UpdatePasswordVM.cs",
+              "RelativeToolTip": "kurikulum\\ViewModels\\Account\\UpdatePasswordVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:10:42.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CooperationController.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Controllers\\CooperationController.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Controllers\\CooperationController.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Controllers\\CooperationController.cs",
+              "RelativeToolTip": "kurikulum\\Controllers\\CooperationController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwCoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:00:52.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateCollaborationVM.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\ViewModels\\Collaboration\\CreateCollaborationVM.cs",
+              "RelativeDocumentMoniker": "kurikulum\\ViewModels\\Collaboration\\CreateCollaborationVM.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\ViewModels\\Collaboration\\CreateCollaborationVM.cs",
+              "RelativeToolTip": "kurikulum\\ViewModels\\Collaboration\\CreateCollaborationVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:20:03.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\Identity\\AppUser.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\Identity\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:12:09.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\Identity\\AppRole.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\Identity\\AppRole.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\Identity\\AppRole.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\Identity\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:12:08.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_headerContentPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Views\\Shared\\_headerContentPartial.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Views\\Shared\\_headerContentPartial.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Views\\Shared\\_headerContentPartial.cshtml",
+              "RelativeToolTip": "kurikulum\\Views\\Shared\\_headerContentPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T16:50:46.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\Teacher.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\Teacher.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:12:28.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AudioLesson.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\AudioLesson.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\AudioLesson.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\AudioLesson.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\AudioLesson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:13:20.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\Lesson.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\Lesson.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\Lesson.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\Lesson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:07:49.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Collaboration.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\Collaboration.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\Collaboration.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\Collaboration.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\Collaboration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:07:04.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HeaderContent.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\HeaderContent.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\HeaderContent.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\HeaderContent.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\HeaderContent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:00:14.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SubCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\SubCategory.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\SubCategory.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\SubCategory.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\SubCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:22:56.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HeaderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\HeaderDetails.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\HeaderDetails.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\HeaderDetails.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\HeaderDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:08:18.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SubQrupCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\SubQrupCategory.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\SubQrupCategory.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\SubQrupCategory.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\SubQrupCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:00:37.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\Details.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\Details.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\Details.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\Details.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:07:15.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\Details\\Index.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Views\\Details\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\Details\\Index.cshtml",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Views\\Details\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T16:43:29.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwCcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:24:03.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\Category.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:20:47.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\Details\\Create.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Views\\Details\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\Details\\Create.cshtml",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Views\\Details\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T16:43:55.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\Details\\Update.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Views\\Details\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\Details\\Update.cshtml",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Views\\Details\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T16:44:21.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\HeaderContent\\Index.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Views\\HeaderContent\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\HeaderContent\\Index.cshtml",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Views\\HeaderContent\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T16:45:07.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\HeaderContent\\Details.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Views\\HeaderContent\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\HeaderContent\\Details.cshtml",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Views\\HeaderContent\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T16:45:23.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\HeaderContent\\Create.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Views\\HeaderContent\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\HeaderContent\\Create.cshtml",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Views\\HeaderContent\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T16:45:35.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "kurikulum\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "kurikulum\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-17T16:35:28.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\HeaderContent\\Update.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Views\\HeaderContent\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\HeaderContent\\Update.cshtml",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Views\\HeaderContent\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T16:45:56.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\Header\\Update.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Views\\Header\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\Header\\Update.cshtml",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Views\\Header\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T16:42:47.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\Header\\Details.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Views\\Header\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\Header\\Details.cshtml",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Views\\Header\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T16:42:11.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Controllers\\DetailsController.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Controllers\\DetailsController.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Controllers\\DetailsController.cs",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Controllers\\DetailsController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAwwCsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:15:17.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\appsettings.json",
+              "RelativeDocumentMoniker": "kurikulum\\appsettings.json",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\appsettings.json",
+              "RelativeToolTip": "kurikulum\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T16:17:29.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240617163018_mg_2.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Migrations\\20240617163018_mg_2.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Migrations\\20240617163018_mg_2.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Migrations\\20240617163018_mg_2.cs",
+              "RelativeToolTip": "kurikulum\\Migrations\\20240617163018_mg_2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:30:18.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\Customers\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Models\\Entity\\Customers\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Models\\Entity\\Customers\\BaseEntity.cs",
+              "RelativeToolTip": "kurikulum\\Models\\Entity\\Customers\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:14:54.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240617161933_mg_1.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Migrations\\20240617161933_mg_1.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Migrations\\20240617161933_mg_1.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Migrations\\20240617161933_mg_1.cs",
+              "RelativeToolTip": "kurikulum\\Migrations\\20240617161933_mg_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:19:33.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateDetailsVM.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\ViewModels\\Details\\CreateDetailsVM.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\ViewModels\\Details\\CreateDetailsVM.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\ViewModels\\Details\\CreateDetailsVM.cs",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\ViewModels\\Details\\CreateDetailsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:16:52.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HeaderDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Controllers\\HeaderDetailsController.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Controllers\\HeaderDetailsController.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Controllers\\HeaderDetailsController.cs",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Controllers\\HeaderDetailsController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAIwE8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:09:05.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CreateHeaderContentVM.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\ViewModels\\HeaderContent\\CreateHeaderContentVM.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\ViewModels\\HeaderContent\\CreateHeaderContentVM.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\ViewModels\\HeaderContent\\CreateHeaderContentVM.cs",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\ViewModels\\HeaderContent\\CreateHeaderContentVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:02:07.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UpdateHeaderContentVM.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\ViewModels\\HeaderContent\\UpdateHeaderContentVM.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\ViewModels\\HeaderContent\\UpdateHeaderContentVM.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\ViewModels\\HeaderContent\\UpdateHeaderContentVM.cs",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\ViewModels\\HeaderContent\\UpdateHeaderContentVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:02:31.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateHeaderVM.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\ViewModels\\Header\\CreateHeaderVM.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\ViewModels\\Header\\CreateHeaderVM.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\ViewModels\\Header\\CreateHeaderVM.cs",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\ViewModels\\Header\\CreateHeaderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:03:57.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UpdateHeaderVM.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\ViewModels\\Header\\UpdateHeaderVM.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\ViewModels\\Header\\UpdateHeaderVM.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\ViewModels\\Header\\UpdateHeaderVM.cs",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\ViewModels\\Header\\UpdateHeaderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:04:20.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IFormFileService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\kurikulum\\kurikulum\\Areas\\Data\\Helper\\IFormFileService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Acer\\source\\repos\\kurikulum\\kurikulum\\Areas\\Data\\Helper\\IFormFileService.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\kurikulum\\kurikulum\\Areas\\Data\\Helper\\IFormFileService.cs",
+              "RelativeToolTip": "..\\..\\..\\Acer\\source\\repos\\kurikulum\\kurikulum\\Areas\\Data\\Helper\\IFormFileService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:11:19.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FormFileService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\kurikulum\\kurikulum\\Areas\\Data\\Helper\\FormFileService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Acer\\source\\repos\\kurikulum\\kurikulum\\Areas\\Data\\Helper\\FormFileService.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\kurikulum\\kurikulum\\Areas\\Data\\Helper\\FormFileService.cs",
+              "RelativeToolTip": "..\\..\\..\\Acer\\source\\repos\\kurikulum\\kurikulum\\Areas\\Data\\Helper\\FormFileService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:11:44.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwDIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T17:00:21.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAcCAAAAAAAAAIBJwAoCAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T17:00:56.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "kurikulum\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T17:02:56.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "kurikulum\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:01:53.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T17:01:29.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "kurikulum\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\Downloads\\kurikulum\\kurikulum\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "kurikulum\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:59:37.139Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
